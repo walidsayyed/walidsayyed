@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Walid 👋
 
-<!--
-**walidsayyed/walidsayyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Dynamic 365 BizApps Engineer
+💻 JavaScript | KQL | Power Platform  
+☁️ Learning Azure, AI & Cloud Engineering  
 
-Here are some ideas to get you started:
+I build data-driven business solutions and share my projects here as I grow into AI and Cloud development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Power Apps & Power Automate
+- JavaScript
+- KQL (Azure Data Explorer)
+- HTML/CSS
+- Azure Fundamentals
+- AI/ML basics
+
+## 🚀 Current Focus
+- Azure Cloud Services
+- AI & Machine Learning
+- Automation & Data Solutions
+
+## 📫 Connect with me
+https://www.linkedin.com/in/walidsayyed29oct/
