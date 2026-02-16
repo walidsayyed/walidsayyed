@@ -1,6 +1,6 @@
 # Hi, I'm Walid 👋
 
-💼 Dynamic 365 BizApps Engineer
+💼 AI Dynamic 365 BizApps Engineer
 💻 JavaScript | KQL | Power Platform  
 ☁️ Learning Azure, AI & Cloud Engineering  
 
